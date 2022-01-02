@@ -12,7 +12,7 @@
 	"styles": [
 		"./css/style.css"
 	],
-	"url": "https://github.com/JiDW/foundryvtt-dice-so-nice-pack-demo",
-	"manifest": "",
-	"download": ""
+	"url": "https://github.com/yacon5e/dice-so-nice-naruto5e-pack",
+	"manifest": "https://raw.githubusercontent.com/yacon5e/dice-so-nice-naruto5e-pack/main/module.json",
+	"download": "https://github.com/yacon5e/dice-so-nice-naruto5e-pack/raw/main/dice-so-nice-naruto5e-pack.zip"
 }
